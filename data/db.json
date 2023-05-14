@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My Goals ",
+      "body": "I want to become a full stack developer in a product based company after completing my enginiring.",
+      "author": "ShivBhan Kushwaha",
+      "id": 1
+    },
+    {
+      "title": "Course Completition",
+      "body": "I completed my full modern react by mindluster.com .\n\nthank you",
+      "author": "ShivBhan Kushwaha",
+      "id": 2
+    }
+  ]
+}
