@@ -4,7 +4,7 @@ import useData from './useData';
 
 
 const Home = () => {
-  const {data:blogs,isPending,error} = useData('http://localhost:3000/blogs')
+  const {data:blogs,isPending,error} = useData('https://my-blog-react-project.onrender.com/')
 
   return (
     <div className='home'>
